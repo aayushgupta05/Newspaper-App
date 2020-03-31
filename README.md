@@ -2,6 +2,10 @@
 
 A web application developed to share articles among the members of the community. Although users can read articles just by visiting the web application, they are required to sign up before they post an article. Further users can also voice their views by writing them into the comment section below the articles.
 
+## Technologies Used
+- Backend: Django
+- Database: SQLite
+- Virtual Environment: Pipenv
 ## Setup
 1. Clone the repository `git clone https://github.com/aayush-05/Newspaper-App.git`
 2. Create the virtual environment by running `pipenv shell`
@@ -22,3 +26,6 @@ A web application developed to share articles among the members of the community
   ![Details page](/static/screenshots/Articledetailpage.PNG)
 * New Article page
   ![Article page](/static/screenshots/Newarticlepage.PNG)
+
+## Contribution
+Feel free to raise Issues or PRs! Fork the repository, set up the project on your local machine and make a PR. 
